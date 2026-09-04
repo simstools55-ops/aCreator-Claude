@@ -1,9 +1,9 @@
 {
   "package_name": "SIMS-Article-Creator-Claude",
-  "package_version": "1.7.1",
+  "package_version": "1.7.2",
   "product_code": "CREATOR",
   "compatible_product_versions": [
-    "1.6.x"
+    "1.7.2"
   ],
   "platform_compatibility": "1.x",
   "shared_version": "3.3.0",
@@ -17,5 +17,5 @@
     "SIMS_ARTICLE_LEARNING_RECORD_V1"
   ],
   "deployment_method": "Claude-Upload",
-  "generated_at": "2026-08-06T05:56:40+09:00"
+  "generated_at": "2026-09-04T10:42:05+09:00"
 }
